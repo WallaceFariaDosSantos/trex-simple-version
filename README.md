@@ -1,2 +1,1 @@
-# trex-simple-version
-Trex
+# trex_wallace
